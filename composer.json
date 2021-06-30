@@ -1,0 +1,22 @@
+{
+    "name": "mohamedhk2/laravel-dev-tools",
+    "description": "Laravel Dev Tools",
+    "homepage": "https://github.com/mohamedhk2/laravel-dev-tools",
+    "authors": [
+        {
+            "name": "mohamedhk2",
+            "email": "mohamedhk2@yahoo.fr"
+        }
+    ],
+    "require": {
+        "barryvdh/laravel-debugbar": "*",
+        "barryvdh/laravel-ide-helper": "*",
+        "kitloong/laravel-migrations-generator": "*",
+        "laravel-lang/lang": "*",
+        "mtolhuys/laravel-schematics": "*",
+        "nunomaduro/collision": "*",
+        "orangehill/iseed": "*",
+        "reliese/laravel": "*"
+    },
+    "license": "MIT"
+}
