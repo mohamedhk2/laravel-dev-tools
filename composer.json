@@ -11,6 +11,7 @@
     "require": {
         "barryvdh/laravel-debugbar": "*",
         "barryvdh/laravel-ide-helper": "*",
+        "bestmomo/laravel5-artisan-language": "*",
         "kitloong/laravel-migrations-generator": "*",
         "laravel-lang/lang": "*",
         "mtolhuys/laravel-schematics": "*",
@@ -18,5 +19,8 @@
         "orangehill/iseed": "*",
         "reliese/laravel": "*"
     },
-    "license": "MIT"
+    "license": "MIT",
+    "config": {
+        "sort-packages": true
+    }
 }

@@ -9,6 +9,7 @@
 
 1. [barryvdh/laravel-debugbar](https://packagist.org/packages/barryvdh/laravel-debugbar)
 1. [barryvdh/laravel-ide-helper](https://packagist.org/packages/barryvdh/laravel-ide-helper)
+1. [bestmomo/laravel5-artisan-language](https://packagist.org/packages/bestmomo/laravel5-artisan-language)
 1. [kitloong/laravel-migrations-generator](https://packagist.org/packages/kitloong/laravel-migrations-generator)
 1. [laravel-lang/lang](https://packagist.org/packages/laravel-lang/lang)
 1. [mtolhuys/laravel-schematics](https://packagist.org/packages/mtolhuys/laravel-schematics)
