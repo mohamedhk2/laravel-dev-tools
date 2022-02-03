@@ -9,6 +9,7 @@
         }
     ],
     "require": {
+        "amirami/localizator": "dev-master",
         "barryvdh/laravel-debugbar": "*",
         "barryvdh/laravel-ide-helper": "*",
         "bestmomo/laravel5-artisan-language": "*",

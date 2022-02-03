@@ -7,6 +7,7 @@
 
 ## Packages
 
+1. [amirami/localizator](https://packagist.org/packages/amirami/localizator)
 1. [barryvdh/laravel-debugbar](https://packagist.org/packages/barryvdh/laravel-debugbar)
 1. [barryvdh/laravel-ide-helper](https://packagist.org/packages/barryvdh/laravel-ide-helper)
 1. [bestmomo/laravel5-artisan-language](https://packagist.org/packages/bestmomo/laravel5-artisan-language)
